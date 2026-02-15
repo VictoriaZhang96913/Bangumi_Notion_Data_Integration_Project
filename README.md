@@ -1,5 +1,4 @@
-1. Project Background
-Overview
+
 The Bangumi Data Pipeline is an automated data collection and visualization system designed to extract, process, and visualize user collection data from Bangumi (bgm.tv), a popular Chinese anime, manga, and game database platform. This project addresses the need for users to analyze their media consumption patterns and preferences across different categories.
 
 
